@@ -1,0 +1,110 @@
+.spanCadastro {
+  display: flex;
+  margin-top: 20px;
+  margin-left: 20px;
+  gap: 80px;
+}
+.btnAcessar {
+  margin-top: 50px;
+  display: flex;
+  gap: 30px;
+}
+.formLogin {
+  width: 500px;
+}
+.leaflet-container {
+  border: solid 3px black;
+  width: 80vw;
+  height: 40vw;
+  margin-top: 20px;
+}
+.semDeco {
+  text-decoration: none;
+}
+.FormControl {
+  margin-top: 50px;
+  padding: 10px;
+  border: solid 2px black;
+}
+.buttonForm {
+  margin-top: 70px;
+}
+.textos {
+  margin-top: 40px;
+}
+.logotext {
+  color: grey;
+}
+.popmapa {
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+}
+.textoMapa {
+  font-weight: 900;
+}
+.corNav {
+  background-image: linear-gradient(
+    to right,
+    #198754,
+    rgba(0, 0, 0, 0.658)
+  ) !important;
+}
+.ModalTexto {
+  font-weight: 900;
+  font-size: 35px;
+}
+.MedicamentosContainer {
+  display: flex;
+}
+.corMedicamento {
+  background-color: #004525;
+}
+.searchMedicamento {
+  margin-top: 20px;
+  width: 350px;
+  border-radius: 10px;
+  padding: 2px;
+  padding-left: 5px;
+  background-image: url(../Images/search.png);
+  background-repeat: no-repeat;
+  background-size: 25px;
+  background-position: 320px;
+}
+.searchDiv {
+  margin-left: 20px;
+}
+.modalContainer {
+  display: flex;
+}
+.LadoEsquerdo {
+  display: flex;
+  flex-direction: column;
+}
+.LadoDireito {
+  margin-left: 20px;
+  display: flex;
+  flex-direction: column;
+}
+.linha {
+  margin-left: 90px;
+}
+.AreaDescricao {
+  margin-top: 30px;
+}
+.containerIcones {
+  margin-top: 25px;
+}
+.mapaIcones {
+  margin-top: 20px;
+}
+.novoMedicamentoBtn {
+  display: flex;
+  margin-top: 20px;
+  margin-left: 30px;
+  gap: 5px;
+}
+.botaoAtualizarmapa {
+  margin-top: 20px;
+  margin-left: 15px;
+}
