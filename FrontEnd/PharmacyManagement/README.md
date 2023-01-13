@@ -4,7 +4,7 @@
  
  <h2>Sobre o Projeto: </h2>
  
- Como rodar: Clone o repositório, npm install para instalar as dependencias e npm start para inciar
+ Como rodar: no terminal do projeto, utilize npm install para instalar as dependencias
  
  IDE utilizada: Visual Studio
  
